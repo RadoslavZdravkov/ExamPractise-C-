@@ -1,0 +1,19 @@
+
+Brand - VW
+Model - Golf
+Engine volume - 1900
+Price -  2500.5
+Has registration - Y
+
+Brand - BMW
+Model - 530
+Engine volume - 3000
+Price -  5500.55
+Has registration - N
+
+Brand - Toyota
+Model - Corolla
+Engine volume - 1400
+Price -  3500
+Has registration - N
+
